@@ -30,13 +30,14 @@ export default function LoginPage() {
                                     .min(8, 'Password should be atleast 8 characters long')
                                     .required('Password is required')
                             })}
-                            onSubmit={(values) => {
+                            onSubmit={(values, {resetForm}) => {
                                 setTimeout(() => {
                                     dispatch(checkUser(values));
+                                    resetForm();
                                 }, 1000);
                             }}
                         >
-                            {({ errors, touched, isSubmitting, isValid }) => (
+                            {({ errors, touched, isSubmitting }) => (
                                 <Form>
                                     <div className="form-group">
                                         <label>Username</label>
