@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/role-based-authorization/static/css/main.1d489058.chunk.css",
+    "main.js": "/role-based-authorization/static/js/main.fc8667a6.chunk.js",
+    "main.js.map": "/role-based-authorization/static/js/main.fc8667a6.chunk.js.map",
+    "runtime-main.js": "/role-based-authorization/static/js/runtime-main.79f391d4.js",
+    "runtime-main.js.map": "/role-based-authorization/static/js/runtime-main.79f391d4.js.map",
+    "static/js/2.0ecb8517.chunk.js": "/role-based-authorization/static/js/2.0ecb8517.chunk.js",
+    "static/js/2.0ecb8517.chunk.js.map": "/role-based-authorization/static/js/2.0ecb8517.chunk.js.map",
+    "index.html": "/role-based-authorization/index.html",
+    "static/css/main.1d489058.chunk.css.map": "/role-based-authorization/static/css/main.1d489058.chunk.css.map",
+    "static/js/2.0ecb8517.chunk.js.LICENSE.txt": "/role-based-authorization/static/js/2.0ecb8517.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79f391d4.js",
+    "static/js/2.0ecb8517.chunk.js",
+    "static/css/main.1d489058.chunk.css",
+    "static/js/main.fc8667a6.chunk.js"
+  ]
+}
